@@ -1,0 +1,8 @@
+x - - - - 
+- x - - - 
+- - x - - 
+- - - x - 
+- - - - x 
+Score:
+    Player 1 Score: 5
+    Player 2 Score: 0
